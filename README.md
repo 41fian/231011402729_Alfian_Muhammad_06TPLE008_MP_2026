@@ -54,3 +54,4 @@ Teks utama menggunakan warna gelap di atas latar putih agar tetap jelas terbaca 
 Preview Aplikasi
 
 Tampilan aplikasi dapat dilihat pada gambar preview_alfian.png
+![Tampilan Aplikasi](preview_alfian.png)
